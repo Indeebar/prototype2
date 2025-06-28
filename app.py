@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array
 
 # Title
-st.title("🌾 AgriWaste Quality Classifier (Backup)")
+st.title("🌾 AgriWaste Quality Classifier ")
 
 # Load model once
 @st.cache_resource
